@@ -1,9 +1,8 @@
 # RStudio files
 .Rproj.user/
 *.Rproj
-*.Rhistory
+.Rhistory
 
 # quarto files
 index.html
 index_files/
-.Rhistory
